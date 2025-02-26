@@ -16,11 +16,11 @@ Each AI employee is crafted using a detailed character prompt. To use an AI empl
 ## 🏆 Categories & AI Employees
 We currently offer **50 AI employees** across **5 high-impact startup categories**:
 
-### 📢 Viral Marketing Mastermind  
-### 💰 Unconventional Fundraising Expert  
-### 🤖 AI-Powered Startup Automator  
-### 🎩 Luxury & Prestige Branding Architect  
-### ⚡ Disruptive Business Model Architect  
+### 📢 Viral Marketing
+### 💰 Unconventional Fundraising 
+### 🤖 AI-Powered Automation  
+### 🎩 Luxury & Prestige Branding 
+### ⚡ Disruptive Business Models 
 
 Each category consists of **10 unique AI employees**, all of whom have broad expertise but function in different ways due to their specialized backstories, giving solopreneurs flexibility in tackling challenges.
 
