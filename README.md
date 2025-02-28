@@ -14,7 +14,7 @@ Each AI employee is crafted using a detailed character prompt. To use an AI empl
 3. **Send the message** and start working with your AI expert.
 
 ## 🏆 Categories & AI Employees
-We currently offer **50 AI employees** across **5 high-impact startup categories**:
+We started with **50 AI employees** across **5 high-impact startup categories** (and are adding more AI employees as frequently as we can):
 
 ### 📢 Viral Marketing
 ### 💰 Unconventional Fundraising 
@@ -22,7 +22,7 @@ We currently offer **50 AI employees** across **5 high-impact startup categories
 ### 🎩 Luxury & Prestige Branding 
 ### ⚡ Disruptive Business Models 
 
-Each category consists of **10 unique AI employees**, all of whom have broad expertise but function in different ways due to their specialized backstories, giving solopreneurs flexibility in tackling challenges.
+Each category consists of **10 unique AI employees**, all of whom have broad expertise but function in different ways due to their specialized backstories, giving solopreneurs flexibility in tackling challenges. Apart from this, some more categories have been added and are being worked on by us.
 
 ## 🛠️ How to Contribute
 Want to add new AI employees? Submit a pull request or suggest ideas in **Issues**!
