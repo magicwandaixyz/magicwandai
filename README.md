@@ -22,7 +22,7 @@ We started with **50 AI employees** across **5 high-impact startup categories** 
 ### 🎩 Luxury & Prestige Branding 
 ### ⚡ Disruptive Business Models 
 
-Each category consists of **10 unique AI employees**, all of whom have broad expertise but function in different ways due to their specialized backstories, giving solopreneurs flexibility in tackling challenges. Apart from this, some more categories have been added and are being worked on by us.
+Each category consists of **10 unique AI employees**, all of whom have broad expertise but function in different ways due to their specialized backstories, giving solopreneurs flexibility in tackling challenges. Apart from this, some more categories have been added and even more are being explored and worked upon by us.
 
 ## 🛠️ How to Contribute
 Want to add new AI employees? Submit a pull request or suggest ideas in **Issues**!
